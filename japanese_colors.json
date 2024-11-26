@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "col001",
+    "chinese_name": "撫子",
+    "english_name": "NADESHIKO",
+    "color": {
+      "hex": "#DC9FB4",
+      "rgb": {
+        "R": 220,
+        "G": 159,
+        "B": 180
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 40
+    }
+  },
+  {
+    "id": "col002",
+    "chinese_name": "紅梅",
+    "english_name": "KOHBAI",
+    "color": {
+      "hex": "#E16B8C",
+      "rgb": {
+        "R": 225,
+        "G": 107,
+        "B": 140
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 40
+    }
+  },
+  {
+    "id": "col003",
+    "chinese_name": "蘇芳",
+    "english_name": "SUOH",
+    "color": {
+      "hex": "#8E354A",
+      "rgb": {
+        "R": 142,
+        "G": 53,
+        "B": 74
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 40
+    }
+  },
+  {
+    "id": "col004",
+    "chinese_name": "退紅",
+    "english_name": "TAIKOH",
+    "color": {
+      "hex": "#F8C3CD",
+      "rgb": {
+        "R": 248,
+        "G": 195,
+        "B": 205
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 40
+    }
+  },
+  {
+    "id": "col005",
+    "chinese_name": "一斥染",
+    "english_name": "IKKONZOME",
+    "color": {
+      "hex": "#F4A7B9",
+      "rgb": {
+        "R": 244,
+        "G": 167,
+        "B": 185
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 40
+    }
+  },
+  {
+    "id": "col006",
+    "chinese_name": "桑染",
+    "english_name": "KUWAZOME",
+    "color": {
+      "hex": "#64363C",
+      "rgb": {
+        "R": 100,
+        "G": 54,
+        "B": 60
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 40
+    }
+  },
+  {
+    "id": "col007",
+    "chinese_name": "桃",
+    "english_name": "MOMO",
+    "color": {
+      "hex": "#F596AA",
+      "rgb": {
+        "R": 245,
+        "G": 150,
+        "B": 170
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 40
+    }
+  },
+  {
+    "id": "col008",
+    "chinese_name": "苺",
+    "english_name": "ICHIGO",
+    "color": {
+      "hex": "#B5495B",
+      "rgb": {
+        "R": 181,
+        "G": 73,
+        "B": 91
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 342
+    }
+  },
+  {
+    "id": "col009",
+    "chinese_name": "薄紅",
+    "english_name": "USUBENI",
+    "color": {
+      "hex": "#E87A90",
+      "rgb": {
+        "R": 232,
+        "G": 122,
+        "B": 144
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 342
+    }
+  },
+  {
+    "id": "col010",
+    "chinese_name": "今様",
+    "english_name": "IMAYOH",
+    "color": {
+      "hex": "#D05A6E",
+      "rgb": {
+        "R": 208,
+        "G": 90,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 342
+    }
+  },
+  {
+    "id": "col011",
+    "chinese_name": "中紅",
+    "english_name": "NAKABENI",
+    "color": {
+      "hex": "#DB4D6D",
+      "rgb": {
+        "R": 219,
+        "G": 77,
+        "B": 109
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 342
+    }
+  },
+  {
+    "id": "col012",
+    "chinese_name": "桜",
+    "english_name": "SAKURA",
+    "color": {
+      "hex": "#FEDFE1",
+      "rgb": {
+        "R": 254,
+        "G": 223,
+        "B": 225
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 342
+    }
+  },
+  {
+    "id": "col013",
+    "chinese_name": "梅鼠",
+    "english_name": "UMENEZUMI",
+    "color": {
+      "hex": "#9E7A7A",
+      "rgb": {
+        "R": 158,
+        "G": 122,
+        "B": 122
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 342
+    }
+  },
+  {
+    "id": "col014",
+    "chinese_name": "韓紅花",
+    "english_name": "KARAKURENAI",
+    "color": {
+      "hex": "#D0104C",
+      "rgb": {
+        "R": 208,
+        "G": 16,
+        "B": 76
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 342
+    }
+  },
+  {
+    "id": "col015",
+    "chinese_name": "燕脂",
+    "english_name": "ENJI",
+    "color": {
+      "hex": "#9F353A",
+      "rgb": {
+        "R": 159,
+        "G": 53,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 644
+    }
+  },
+  {
+    "id": "col016",
+    "chinese_name": "紅",
+    "english_name": "KURENAI",
+    "color": {
+      "hex": "#CB1B45",
+      "rgb": {
+        "R": 203,
+        "G": 27,
+        "B": 69
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 644
+    }
+  },
+  {
+    "id": "col017",
+    "chinese_name": "鴇",
+    "english_name": "TOKI",
+    "color": {
+      "hex": "#EEA9A9",
+      "rgb": {
+        "R": 238,
+        "G": 169,
+        "B": 169
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 644
+    }
+  },
+  {
+    "id": "col018",
+    "chinese_name": "長春",
+    "english_name": "CYOHSYUN",
+    "color": {
+      "hex": "#BF6766",
+      "rgb": {
+        "R": 191,
+        "G": 103,
+        "B": 102
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 644
+    }
+  },
+  {
+    "id": "col019",
+    "chinese_name": "深緋",
+    "english_name": "KOKIAKE",
+    "color": {
+      "hex": "#86473F",
+      "rgb": {
+        "R": 134,
+        "G": 71,
+        "B": 63
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 644
+    }
+  },
+  {
+    "id": "col020",
+    "chinese_name": "桜鼠",
+    "english_name": "SAKURANEZUMI",
+    "color": {
+      "hex": "#B19693",
+      "rgb": {
+        "R": 177,
+        "G": 150,
+        "B": 147
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 644
+    }
+  },
+  {
+    "id": "col021",
+    "chinese_name": "甚三紅",
+    "english_name": "JINZAMOMI",
+    "color": {
+      "hex": "#EB7A77",
+      "rgb": {
+        "R": 235,
+        "G": 122,
+        "B": 119
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 644
+    }
+  },
+  {
+    "id": "col022",
+    "chinese_name": "小豆",
+    "english_name": "AZUKI",
+    "color": {
+      "hex": "#954A45",
+      "rgb": {
+        "R": 149,
+        "G": 74,
+        "B": 69
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 946
+    }
+  },
+  {
+    "id": "col023",
+    "chinese_name": "蘇芳香",
+    "english_name": "SUOHKOH",
+    "color": {
+      "hex": "#A96360",
+      "rgb": {
+        "R": 169,
+        "G": 99,
+        "B": 96
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 946
+    }
+  },
+  {
+    "id": "col024",
+    "chinese_name": "赤紅",
+    "english_name": "AKABENI",
+    "color": {
+      "hex": "#CB4042",
+      "rgb": {
+        "R": 203,
+        "G": 64,
+        "B": 66
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 946
+    }
+  },
+  {
+    "id": "col025",
+    "chinese_name": "真朱",
+    "english_name": "SHINSYU",
+    "color": {
+      "hex": "#AB3B3A",
+      "rgb": {
+        "R": 171,
+        "G": 59,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 946
+    }
+  },
+  {
+    "id": "col026",
+    "chinese_name": "灰桜",
+    "english_name": "HAIZAKURA",
+    "color": {
+      "hex": "#D7C4BB",
+      "rgb": {
+        "R": 215,
+        "G": 196,
+        "B": 187
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 946
+    }
+  },
+  {
+    "id": "col027",
+    "chinese_name": "栗梅",
+    "english_name": "KURIUME",
+    "color": {
+      "hex": "#904840",
+      "rgb": {
+        "R": 144,
+        "G": 72,
+        "B": 64
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 946
+    }
+  },
+  {
+    "id": "col028",
+    "chinese_name": "海老茶",
+    "english_name": "EBICHA",
+    "color": {
+      "hex": "#734338",
+      "rgb": {
+        "R": 115,
+        "G": 67,
+        "B": 56
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 946
+    }
+  },
+  {
+    "id": "col029",
+    "chinese_name": "銀朱",
+    "english_name": "GINSYU",
+    "color": {
+      "hex": "#C73E3A",
+      "rgb": {
+        "R": 199,
+        "G": 62,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col030",
+    "chinese_name": "黒鳶",
+    "english_name": "KUROTOBI",
+    "color": {
+      "hex": "#554236",
+      "rgb": {
+        "R": 85,
+        "G": 66,
+        "B": 54
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col031",
+    "chinese_name": "紅鳶",
+    "english_name": "BENITOBI",
+    "color": {
+      "hex": "#994639",
+      "rgb": {
+        "R": 153,
+        "G": 70,
+        "B": 57
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col032",
+    "chinese_name": "曙",
+    "english_name": "AKEBONO",
+    "color": {
+      "hex": "#F19483",
+      "rgb": {
+        "R": 241,
+        "G": 148,
+        "B": 131
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col033",
+    "chinese_name": "紅樺",
+    "english_name": "BENIKABA",
+    "color": {
+      "hex": "#B54434",
+      "rgb": {
+        "R": 181,
+        "G": 68,
+        "B": 52
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col034",
+    "chinese_name": "水がき",
+    "english_name": "MIZUGAKI",
+    "color": {
+      "hex": "#B9887D",
+      "rgb": {
+        "R": 185,
+        "G": 136,
+        "B": 125
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col035",
+    "chinese_name": "珊瑚朱",
+    "english_name": "SANGOSYU",
+    "color": {
+      "hex": "#F17C67",
+      "rgb": {
+        "R": 241,
+        "G": 124,
+        "B": 103
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 1248
+    }
+  },
+  {
+    "id": "col036",
+    "chinese_name": "紅檜皮",
+    "english_name": "BENIHIWADA",
+    "color": {
+      "hex": "#884C3A",
+      "rgb": {
+        "R": 136,
+        "G": 76,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col037",
+    "chinese_name": "猩猩緋",
+    "english_name": "SYOJYOHI",
+    "color": {
+      "hex": "#E83015",
+      "rgb": {
+        "R": 232,
+        "G": 48,
+        "B": 21
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col038",
+    "chinese_name": "鉛丹",
+    "english_name": "ENTAN",
+    "color": {
+      "hex": "#D75455",
+      "rgb": {
+        "R": 215,
+        "G": 84,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col039",
+    "chinese_name": "芝翫茶",
+    "english_name": "SHIKANCHA",
+    "color": {
+      "hex": "#B55D4C",
+      "rgb": {
+        "R": 181,
+        "G": 93,
+        "B": 76
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col040",
+    "chinese_name": "檜皮",
+    "english_name": "HIWADA",
+    "color": {
+      "hex": "#854836",
+      "rgb": {
+        "R": 133,
+        "G": 72,
+        "B": 54
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col041",
+    "chinese_name": "柿渋",
+    "english_name": "KAKISHIBU",
+    "color": {
+      "hex": "#A35E47",
+      "rgb": {
+        "R": 163,
+        "G": 94,
+        "B": 71
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col042",
+    "chinese_name": "緋",
+    "english_name": "AKE",
+    "color": {
+      "hex": "#CC543A",
+      "rgb": {
+        "R": 204,
+        "G": 84,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 1550
+    }
+  },
+  {
+    "id": "col043",
+    "chinese_name": "鳶",
+    "english_name": "TOBI",
+    "color": {
+      "hex": "#724832",
+      "rgb": {
+        "R": 114,
+        "G": 72,
+        "B": 50
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col044",
+    "chinese_name": "紅緋",
+    "english_name": "BENIHI",
+    "color": {
+      "hex": "#F75C2F",
+      "rgb": {
+        "R": 247,
+        "G": 92,
+        "B": 47
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col045",
+    "chinese_name": "栗皮茶",
+    "english_name": "KURIKAWACHA",
+    "color": {
+      "hex": "#6A4028",
+      "rgb": {
+        "R": 106,
+        "G": 64,
+        "B": 40
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col046",
+    "chinese_name": "弁柄",
+    "english_name": "BENGARA",
+    "color": {
+      "hex": "#9A5034",
+      "rgb": {
+        "R": 154,
+        "G": 80,
+        "B": 52
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col047",
+    "chinese_name": "照柿",
+    "english_name": "TERIGAKI",
+    "color": {
+      "hex": "#C46243",
+      "rgb": {
+        "R": 196,
+        "G": 98,
+        "B": 67
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col048",
+    "chinese_name": "江戸茶",
+    "english_name": "EDOCHA",
+    "color": {
+      "hex": "#AF5F3C",
+      "rgb": {
+        "R": 175,
+        "G": 95,
+        "B": 60
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col049",
+    "chinese_name": "洗朱",
+    "english_name": "ARAISYU",
+    "color": {
+      "hex": "#FB966E",
+      "rgb": {
+        "R": 251,
+        "G": 150,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 1852
+    }
+  },
+  {
+    "id": "col050",
+    "chinese_name": "百塩茶",
+    "english_name": "MOMOSHIOCHA",
+    "color": {
+      "hex": "#724938",
+      "rgb": {
+        "R": 114,
+        "G": 73,
+        "B": 56
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col051",
+    "chinese_name": "唐茶",
+    "english_name": "KARACHA",
+    "color": {
+      "hex": "#B47157",
+      "rgb": {
+        "R": 180,
+        "G": 113,
+        "B": 87
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col052",
+    "chinese_name": "ときがら茶",
+    "english_name": "TOKIGARACHA",
+    "color": {
+      "hex": "#DB8E71",
+      "rgb": {
+        "R": 219,
+        "G": 142,
+        "B": 113
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col053",
+    "chinese_name": "黄丹",
+    "english_name": "OHNI",
+    "color": {
+      "hex": "#F05E1C",
+      "rgb": {
+        "R": 240,
+        "G": 94,
+        "B": 28
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col054",
+    "chinese_name": "纁",
+    "english_name": "SOHI",
+    "color": {
+      "hex": "#ED784A",
+      "rgb": {
+        "R": 237,
+        "G": 120,
+        "B": 74
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col055",
+    "chinese_name": "遠州茶",
+    "english_name": "ENSYUCHA",
+    "color": {
+      "hex": "#CA7853",
+      "rgb": {
+        "R": 202,
+        "G": 120,
+        "B": 83
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col056",
+    "chinese_name": "樺茶",
+    "english_name": "KABACHA",
+    "color": {
+      "hex": "#B35C37",
+      "rgb": {
+        "R": 179,
+        "G": 92,
+        "B": 55
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 2154
+    }
+  },
+  {
+    "id": "col057",
+    "chinese_name": "焦茶",
+    "english_name": "KOGECHA",
+    "color": {
+      "hex": "#563F2E",
+      "rgb": {
+        "R": 86,
+        "G": 63,
+        "B": 46
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col058",
+    "chinese_name": "赤香",
+    "english_name": "AKAKOH",
+    "color": {
+      "hex": "#E3916E",
+      "rgb": {
+        "R": 227,
+        "G": 145,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col059",
+    "chinese_name": "雀茶",
+    "english_name": "SUZUMECHA",
+    "color": {
+      "hex": "#8F5A3C",
+      "rgb": {
+        "R": 143,
+        "G": 90,
+        "B": 60
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col060",
+    "chinese_name": "宍",
+    "english_name": "SHISHI",
+    "color": {
+      "hex": "#F0A986",
+      "rgb": {
+        "R": 240,
+        "G": 169,
+        "B": 134
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col061",
+    "chinese_name": "宗伝唐茶",
+    "english_name": "SODENKARACHA",
+    "color": {
+      "hex": "#A0674B",
+      "rgb": {
+        "R": 160,
+        "G": 103,
+        "B": 75
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col062",
+    "chinese_name": "樺",
+    "english_name": "KABA",
+    "color": {
+      "hex": "#C1693C",
+      "rgb": {
+        "R": 193,
+        "G": 105,
+        "B": 60
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col063",
+    "chinese_name": "深支子",
+    "english_name": "KOKIKUCHINASHI",
+    "color": {
+      "hex": "#FB9966",
+      "rgb": {
+        "R": 251,
+        "G": 153,
+        "B": 102
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 2456
+    }
+  },
+  {
+    "id": "col064",
+    "chinese_name": "胡桃",
+    "english_name": "KURUMI",
+    "color": {
+      "hex": "#947A6D",
+      "rgb": {
+        "R": 148,
+        "G": 122,
+        "B": 109
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col065",
+    "chinese_name": "代赭",
+    "english_name": "TAISYA",
+    "color": {
+      "hex": "#A36336",
+      "rgb": {
+        "R": 163,
+        "G": 99,
+        "B": 54
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col066",
+    "chinese_name": "洗柿",
+    "english_name": "ARAIGAKI",
+    "color": {
+      "hex": "#E79460",
+      "rgb": {
+        "R": 231,
+        "G": 148,
+        "B": 96
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col067",
+    "chinese_name": "黄櫨染",
+    "english_name": "KOHROZEN",
+    "color": {
+      "hex": "#7D532C",
+      "rgb": {
+        "R": 125,
+        "G": 83,
+        "B": 44
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col068",
+    "chinese_name": "赤朽葉",
+    "english_name": "AKAKUCHIBA",
+    "color": {
+      "hex": "#C78550",
+      "rgb": {
+        "R": 199,
+        "G": 133,
+        "B": 80
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col069",
+    "chinese_name": "礪茶",
+    "english_name": "TONOCHA",
+    "color": {
+      "hex": "#985F2A",
+      "rgb": {
+        "R": 152,
+        "G": 95,
+        "B": 42
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col070",
+    "chinese_name": "赤白橡",
+    "english_name": "AKASHIROTSURUBAMI",
+    "color": {
+      "hex": "#E1A679",
+      "rgb": {
+        "R": 225,
+        "G": 166,
+        "B": 121
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 2758
+    }
+  },
+  {
+    "id": "col071",
+    "chinese_name": "煎茶",
+    "english_name": "SENCHA",
+    "color": {
+      "hex": "#855B32",
+      "rgb": {
+        "R": 133,
+        "G": 91,
+        "B": 50
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col072",
+    "chinese_name": "萱草",
+    "english_name": "KANZO",
+    "color": {
+      "hex": "#FC9F4D",
+      "rgb": {
+        "R": 252,
+        "G": 159,
+        "B": 77
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col073",
+    "chinese_name": "洒落柿",
+    "english_name": "SHAREGAKI",
+    "color": {
+      "hex": "#FFBA84",
+      "rgb": {
+        "R": 255,
+        "G": 186,
+        "B": 132
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col074",
+    "chinese_name": "紅鬱金",
+    "english_name": "BENIUKON",
+    "color": {
+      "hex": "#E98B2A",
+      "rgb": {
+        "R": 233,
+        "G": 139,
+        "B": 42
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col075",
+    "chinese_name": "梅染",
+    "english_name": "UMEZOME",
+    "color": {
+      "hex": "#E9A368",
+      "rgb": {
+        "R": 233,
+        "G": 163,
+        "B": 104
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col076",
+    "chinese_name": "枇杷茶",
+    "english_name": "BIWACHA",
+    "color": {
+      "hex": "#B17844",
+      "rgb": {
+        "R": 177,
+        "G": 120,
+        "B": 68
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col077",
+    "chinese_name": "丁子茶",
+    "english_name": "CHOJICHA",
+    "color": {
+      "hex": "#96632E",
+      "rgb": {
+        "R": 150,
+        "G": 99,
+        "B": 46
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 3060
+    }
+  },
+  {
+    "id": "col078",
+    "chinese_name": "憲法染",
+    "english_name": "KENPOHZOME",
+    "color": {
+      "hex": "#43341B",
+      "rgb": {
+        "R": 67,
+        "G": 52,
+        "B": 27
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col079",
+    "chinese_name": "琥珀",
+    "english_name": "KOHAKU",
+    "color": {
+      "hex": "#CA7A2C",
+      "rgb": {
+        "R": 202,
+        "G": 122,
+        "B": 44
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col080",
+    "chinese_name": "薄柿",
+    "english_name": "USUGAKI",
+    "color": {
+      "hex": "#ECB88A",
+      "rgb": {
+        "R": 236,
+        "G": 184,
+        "B": 138
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col081",
+    "chinese_name": "伽羅",
+    "english_name": "KYARA",
+    "color": {
+      "hex": "#78552B",
+      "rgb": {
+        "R": 120,
+        "G": 85,
+        "B": 43
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col082",
+    "chinese_name": "丁子染",
+    "english_name": "CHOJIZOME",
+    "color": {
+      "hex": "#B07736",
+      "rgb": {
+        "R": 176,
+        "G": 119,
+        "B": 54
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col083",
+    "chinese_name": "柴染",
+    "english_name": "FUSHIZOME",
+    "color": {
+      "hex": "#967249",
+      "rgb": {
+        "R": 150,
+        "G": 114,
+        "B": 73
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col084",
+    "chinese_name": "朽葉",
+    "english_name": "KUCHIBA",
+    "color": {
+      "hex": "#E2943B",
+      "rgb": {
+        "R": 226,
+        "G": 148,
+        "B": 59
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 3362
+    }
+  },
+  {
+    "id": "col085",
+    "chinese_name": "金茶",
+    "english_name": "KINCHA",
+    "color": {
+      "hex": "#C7802D",
+      "rgb": {
+        "R": 199,
+        "G": 128,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col086",
+    "chinese_name": "狐",
+    "english_name": "KITSUNE",
+    "color": {
+      "hex": "#9B6E23",
+      "rgb": {
+        "R": 155,
+        "G": 110,
+        "B": 35
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col087",
+    "chinese_name": "煤竹",
+    "english_name": "SUSUTAKE",
+    "color": {
+      "hex": "#6E552F",
+      "rgb": {
+        "R": 110,
+        "G": 85,
+        "B": 47
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col088",
+    "chinese_name": "薄香",
+    "english_name": "USUKOH",
+    "color": {
+      "hex": "#EBB471",
+      "rgb": {
+        "R": 235,
+        "G": 180,
+        "B": 113
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col089",
+    "chinese_name": "砥粉",
+    "english_name": "TONOKO",
+    "color": {
+      "hex": "#D7B98E",
+      "rgb": {
+        "R": 215,
+        "G": 185,
+        "B": 142
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col090",
+    "chinese_name": "銀煤竹",
+    "english_name": "GINSUSUTAKE",
+    "color": {
+      "hex": "#82663A",
+      "rgb": {
+        "R": 130,
+        "G": 102,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col091",
+    "chinese_name": "黄土",
+    "english_name": "OHDO",
+    "color": {
+      "hex": "#B68E55",
+      "rgb": {
+        "R": 182,
+        "G": 142,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 3664
+    }
+  },
+  {
+    "id": "col092",
+    "chinese_name": "白茶",
+    "english_name": "SHIRACHA",
+    "color": {
+      "hex": "#BC9F77",
+      "rgb": {
+        "R": 188,
+        "G": 159,
+        "B": 119
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col093",
+    "chinese_name": "媚茶",
+    "english_name": "KOBICHA",
+    "color": {
+      "hex": "#876633",
+      "rgb": {
+        "R": 135,
+        "G": 102,
+        "B": 51
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col094",
+    "chinese_name": "黄唐茶",
+    "english_name": "KIGARACHA",
+    "color": {
+      "hex": "#C18A26",
+      "rgb": {
+        "R": 193,
+        "G": 138,
+        "B": 38
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col095",
+    "chinese_name": "山吹",
+    "english_name": "YAMABUKI",
+    "color": {
+      "hex": "#FFB11B",
+      "rgb": {
+        "R": 255,
+        "G": 177,
+        "B": 27
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col096",
+    "chinese_name": "山吹茶",
+    "english_name": "YAMABUKICHA",
+    "color": {
+      "hex": "#D19826",
+      "rgb": {
+        "R": 209,
+        "G": 152,
+        "B": 38
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col097",
+    "chinese_name": "櫨染",
+    "english_name": "HAJIZOME",
+    "color": {
+      "hex": "#DDA52D",
+      "rgb": {
+        "R": 221,
+        "G": 165,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col098",
+    "chinese_name": "桑茶",
+    "english_name": "KUWACHA",
+    "color": {
+      "hex": "#C99833",
+      "rgb": {
+        "R": 201,
+        "G": 152,
+        "B": 51
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 3966
+    }
+  },
+  {
+    "id": "col099",
+    "chinese_name": "玉子",
+    "english_name": "TAMAGO",
+    "color": {
+      "hex": "#F9BF45",
+      "rgb": {
+        "R": 249,
+        "G": 191,
+        "B": 69
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col100",
+    "chinese_name": "白橡",
+    "english_name": "SHIROTSURUBAMI",
+    "color": {
+      "hex": "#DCB879",
+      "rgb": {
+        "R": 220,
+        "G": 184,
+        "B": 121
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col101",
+    "chinese_name": "黄橡",
+    "english_name": "KITSURUBAMI",
+    "color": {
+      "hex": "#BA9132",
+      "rgb": {
+        "R": 186,
+        "G": 145,
+        "B": 50
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col102",
+    "chinese_name": "玉蜀黍",
+    "english_name": "TAMAMOROKOSHI",
+    "color": {
+      "hex": "#E8B647",
+      "rgb": {
+        "R": 232,
+        "G": 182,
+        "B": 71
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col103",
+    "chinese_name": "花葉",
+    "english_name": "HANABA",
+    "color": {
+      "hex": "#F7C242",
+      "rgb": {
+        "R": 247,
+        "G": 194,
+        "B": 66
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col104",
+    "chinese_name": "生壁",
+    "english_name": "NAMAKABE",
+    "color": {
+      "hex": "#7D6C46",
+      "rgb": {
+        "R": 125,
+        "G": 108,
+        "B": 70
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col105",
+    "chinese_name": "鳥の子",
+    "english_name": "TORINOKO",
+    "color": {
+      "hex": "#DAC9A6",
+      "rgb": {
+        "R": 218,
+        "G": 201,
+        "B": 166
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 4268
+    }
+  },
+  {
+    "id": "col106",
+    "chinese_name": "浅黄",
+    "english_name": "USUKI",
+    "color": {
+      "hex": "#FAD689",
+      "rgb": {
+        "R": 250,
+        "G": 214,
+        "B": 137
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col107",
+    "chinese_name": "黄朽葉",
+    "english_name": "KIKUCHIBA",
+    "color": {
+      "hex": "#D9AB42",
+      "rgb": {
+        "R": 217,
+        "G": 171,
+        "B": 66
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col108",
+    "chinese_name": "梔子",
+    "english_name": "KUCHINASHI",
+    "color": {
+      "hex": "#F6C555",
+      "rgb": {
+        "R": 246,
+        "G": 197,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col109",
+    "chinese_name": "籐黄",
+    "english_name": "TOHOH",
+    "color": {
+      "hex": "#FFC408",
+      "rgb": {
+        "R": 255,
+        "G": 196,
+        "B": 8
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col110",
+    "chinese_name": "鬱金",
+    "english_name": "UKON",
+    "color": {
+      "hex": "#EFBB24",
+      "rgb": {
+        "R": 239,
+        "G": 187,
+        "B": 36
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col111",
+    "chinese_name": "芥子",
+    "english_name": "KARASHI",
+    "color": {
+      "hex": "#CAAD5F",
+      "rgb": {
+        "R": 202,
+        "G": 173,
+        "B": 95
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col112",
+    "chinese_name": "肥後煤竹",
+    "english_name": "HIGOSUSUTAKE",
+    "color": {
+      "hex": "#8D742A",
+      "rgb": {
+        "R": 141,
+        "G": 116,
+        "B": 42
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 4570
+    }
+  },
+  {
+    "id": "col113",
+    "chinese_name": "利休白茶",
+    "english_name": "RIKYUSHIRACHA",
+    "color": {
+      "hex": "#B4A582",
+      "rgb": {
+        "R": 180,
+        "G": 165,
+        "B": 130
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col114",
+    "chinese_name": "灰汁",
+    "english_name": "AKU",
+    "color": {
+      "hex": "#877F6C",
+      "rgb": {
+        "R": 135,
+        "G": 127,
+        "B": 108
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col115",
+    "chinese_name": "利休茶",
+    "english_name": "RIKYUCHA",
+    "color": {
+      "hex": "#897D55",
+      "rgb": {
+        "R": 137,
+        "G": 125,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col116",
+    "chinese_name": "路考茶",
+    "english_name": "ROKOHCHA",
+    "color": {
+      "hex": "#74673E",
+      "rgb": {
+        "R": 116,
+        "G": 103,
+        "B": 62
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col117",
+    "chinese_name": "菜種油",
+    "english_name": "NATANEYU",
+    "color": {
+      "hex": "#A28C37",
+      "rgb": {
+        "R": 162,
+        "G": 140,
+        "B": 55
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col118",
+    "chinese_name": "鶯茶",
+    "english_name": "UGUISUCHA",
+    "color": {
+      "hex": "#6C6024",
+      "rgb": {
+        "R": 108,
+        "G": 96,
+        "B": 36
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col119",
+    "chinese_name": "黄海松茶",
+    "english_name": "KIMIRUCHA",
+    "color": {
+      "hex": "#867835",
+      "rgb": {
+        "R": 134,
+        "G": 120,
+        "B": 53
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 4872
+    }
+  },
+  {
+    "id": "col120",
+    "chinese_name": "海松茶",
+    "english_name": "MIRUCHA",
+    "color": {
+      "hex": "#62592C",
+      "rgb": {
+        "R": 98,
+        "G": 89,
+        "B": 44
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col121",
+    "chinese_name": "刈安",
+    "english_name": "KARIYASU",
+    "color": {
+      "hex": "#E9CD4C",
+      "rgb": {
+        "R": 233,
+        "G": 205,
+        "B": 76
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col122",
+    "chinese_name": "菜の花",
+    "english_name": "NANOHANA",
+    "color": {
+      "hex": "#F7D94C",
+      "rgb": {
+        "R": 247,
+        "G": 217,
+        "B": 76
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col123",
+    "chinese_name": "黄蘗",
+    "english_name": "KIHADA",
+    "color": {
+      "hex": "#FBE251",
+      "rgb": {
+        "R": 251,
+        "G": 226,
+        "B": 81
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col124",
+    "chinese_name": "蒸栗",
+    "english_name": "MUSHIKURI",
+    "color": {
+      "hex": "#D9CD90",
+      "rgb": {
+        "R": 217,
+        "G": 205,
+        "B": 144
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col125",
+    "chinese_name": "青朽葉",
+    "english_name": "AOKUCHIBA",
+    "color": {
+      "hex": "#ADA142",
+      "rgb": {
+        "R": 173,
+        "G": 161,
+        "B": 66
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col126",
+    "chinese_name": "女郎花",
+    "english_name": "OMINAESHI",
+    "color": {
+      "hex": "#DDD23B",
+      "rgb": {
+        "R": 221,
+        "G": 210,
+        "B": 59
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 5174
+    }
+  },
+  {
+    "id": "col127",
+    "chinese_name": "鶸茶",
+    "english_name": "HIWACHA",
+    "color": {
+      "hex": "#A5A051",
+      "rgb": {
+        "R": 165,
+        "G": 160,
+        "B": 81
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col128",
+    "chinese_name": "鶸",
+    "english_name": "HIWA",
+    "color": {
+      "hex": "#BEC23F",
+      "rgb": {
+        "R": 190,
+        "G": 194,
+        "B": 63
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col129",
+    "chinese_name": "鶯",
+    "english_name": "UGUISU",
+    "color": {
+      "hex": "#6C6A2D",
+      "rgb": {
+        "R": 108,
+        "G": 106,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col130",
+    "chinese_name": "柳茶",
+    "english_name": "YANAGICHA",
+    "color": {
+      "hex": "#939650",
+      "rgb": {
+        "R": 147,
+        "G": 150,
+        "B": 80
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col131",
+    "chinese_name": "苔",
+    "english_name": "KOKE",
+    "color": {
+      "hex": "#838A2D",
+      "rgb": {
+        "R": 131,
+        "G": 138,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col132",
+    "chinese_name": "麹塵",
+    "english_name": "KIKUJIN",
+    "color": {
+      "hex": "#B1B479",
+      "rgb": {
+        "R": 177,
+        "G": 180,
+        "B": 121
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col133",
+    "chinese_name": "璃寛茶",
+    "english_name": "RIKANCHA",
+    "color": {
+      "hex": "#616138",
+      "rgb": {
+        "R": 97,
+        "G": 97,
+        "B": 56
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 5476
+    }
+  },
+  {
+    "id": "col134",
+    "chinese_name": "藍媚茶",
+    "english_name": "AIKOBICHA",
+    "color": {
+      "hex": "#4B4E2A",
+      "rgb": {
+        "R": 75,
+        "G": 78,
+        "B": 42
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col135",
+    "chinese_name": "海松",
+    "english_name": "MIRU",
+    "color": {
+      "hex": "#5B622E",
+      "rgb": {
+        "R": 91,
+        "G": 98,
+        "B": 46
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col136",
+    "chinese_name": "千歳茶",
+    "english_name": "SENSAICHA",
+    "color": {
+      "hex": "#4D5139",
+      "rgb": {
+        "R": 77,
+        "G": 81,
+        "B": 57
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col137",
+    "chinese_name": "梅幸茶",
+    "english_name": "BAIKOCHA",
+    "color": {
+      "hex": "#89916B",
+      "rgb": {
+        "R": 137,
+        "G": 145,
+        "B": 107
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col138",
+    "chinese_name": "鶸萌黄",
+    "english_name": "HIWAMOEGI",
+    "color": {
+      "hex": "#90B44B",
+      "rgb": {
+        "R": 144,
+        "G": 180,
+        "B": 75
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col139",
+    "chinese_name": "柳染",
+    "english_name": "YANAGIZOME",
+    "color": {
+      "hex": "#91AD70",
+      "rgb": {
+        "R": 145,
+        "G": 173,
+        "B": 112
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col140",
+    "chinese_name": "裏柳",
+    "english_name": "URAYANAGI",
+    "color": {
+      "hex": "#B5CAA0",
+      "rgb": {
+        "R": 181,
+        "G": 202,
+        "B": 160
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 5778
+    }
+  },
+  {
+    "id": "col141",
+    "chinese_name": "岩井茶",
+    "english_name": "IWAICHA",
+    "color": {
+      "hex": "#646A58",
+      "rgb": {
+        "R": 100,
+        "G": 106,
+        "B": 88
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col142",
+    "chinese_name": "萌黄",
+    "english_name": "MOEGI",
+    "color": {
+      "hex": "#7BA23F",
+      "rgb": {
+        "R": 123,
+        "G": 162,
+        "B": 63
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col143",
+    "chinese_name": "苗",
+    "english_name": "NAE",
+    "color": {
+      "hex": "#86C166",
+      "rgb": {
+        "R": 134,
+        "G": 193,
+        "B": 102
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col144",
+    "chinese_name": "柳煤竹",
+    "english_name": "YANAGISUSUTAKE",
+    "color": {
+      "hex": "#4A593D",
+      "rgb": {
+        "R": 74,
+        "G": 89,
+        "B": 61
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col145",
+    "chinese_name": "松葉",
+    "english_name": "MATSUBA",
+    "color": {
+      "hex": "#42602D",
+      "rgb": {
+        "R": 66,
+        "G": 96,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col146",
+    "chinese_name": "青丹",
+    "english_name": "AONI",
+    "color": {
+      "hex": "#516E41",
+      "rgb": {
+        "R": 81,
+        "G": 110,
+        "B": 65
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col147",
+    "chinese_name": "薄青",
+    "english_name": "USUAO",
+    "color": {
+      "hex": "#91B493",
+      "rgb": {
+        "R": 145,
+        "G": 180,
+        "B": 147
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 6080
+    }
+  },
+  {
+    "id": "col148",
+    "chinese_name": "柳鼠",
+    "english_name": "YANAGINEZUMI",
+    "color": {
+      "hex": "#808F7C",
+      "rgb": {
+        "R": 128,
+        "G": 143,
+        "B": 124
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col149",
+    "chinese_name": "常磐",
+    "english_name": "TOKIWA",
+    "color": {
+      "hex": "#1B813E",
+      "rgb": {
+        "R": 27,
+        "G": 129,
+        "B": 62
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col150",
+    "chinese_name": "若竹",
+    "english_name": "WAKATAKE",
+    "color": {
+      "hex": "#5DAC81",
+      "rgb": {
+        "R": 93,
+        "G": 172,
+        "B": 129
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col151",
+    "chinese_name": "千歳緑",
+    "english_name": "CHITOSEMIDORI",
+    "color": {
+      "hex": "#36563C",
+      "rgb": {
+        "R": 54,
+        "G": 86,
+        "B": 60
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col152",
+    "chinese_name": "緑",
+    "english_name": "MIDORI",
+    "color": {
+      "hex": "#227D51",
+      "rgb": {
+        "R": 34,
+        "G": 125,
+        "B": 81
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col153",
+    "chinese_name": "白緑",
+    "english_name": "BYAKUROKU",
+    "color": {
+      "hex": "#A8D8B9",
+      "rgb": {
+        "R": 168,
+        "G": 216,
+        "B": 185
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col154",
+    "chinese_name": "老竹",
+    "english_name": "OITAKE",
+    "color": {
+      "hex": "#6A8372",
+      "rgb": {
+        "R": 106,
+        "G": 131,
+        "B": 114
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 6382
+    }
+  },
+  {
+    "id": "col155",
+    "chinese_name": "木賊",
+    "english_name": "TOKUSA",
+    "color": {
+      "hex": "#2D6D4B",
+      "rgb": {
+        "R": 45,
+        "G": 109,
+        "B": 75
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col156",
+    "chinese_name": "御納戸茶",
+    "english_name": "ONANDOCHA",
+    "color": {
+      "hex": "#465D4C",
+      "rgb": {
+        "R": 70,
+        "G": 93,
+        "B": 76
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col157",
+    "chinese_name": "緑青",
+    "english_name": "ROKUSYOH",
+    "color": {
+      "hex": "#24936E",
+      "rgb": {
+        "R": 36,
+        "G": 147,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col158",
+    "chinese_name": "錆青磁",
+    "english_name": "SABISEIJI",
+    "color": {
+      "hex": "#86A697",
+      "rgb": {
+        "R": 134,
+        "G": 166,
+        "B": 151
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col159",
+    "chinese_name": "青竹",
+    "english_name": "AOTAKE",
+    "color": {
+      "hex": "#00896C",
+      "rgb": {
+        "R": 0,
+        "G": 137,
+        "B": 108
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col160",
+    "chinese_name": "ビロード",
+    "english_name": "VELUDO",
+    "color": {
+      "hex": "#096148",
+      "rgb": {
+        "R": 9,
+        "G": 97,
+        "B": 72
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col161",
+    "chinese_name": "虫襖",
+    "english_name": "MUSHIAO",
+    "color": {
+      "hex": "#20604F",
+      "rgb": {
+        "R": 32,
+        "G": 96,
+        "B": 79
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 6684
+    }
+  },
+  {
+    "id": "col162",
+    "chinese_name": "藍海松茶",
+    "english_name": "AIMIRUCHA",
+    "color": {
+      "hex": "#0F4C3A",
+      "rgb": {
+        "R": 15,
+        "G": 76,
+        "B": 58
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col163",
+    "chinese_name": "沈香茶",
+    "english_name": "TONOCHA2",
+    "color": {
+      "hex": "#4F726C",
+      "rgb": {
+        "R": 79,
+        "G": 114,
+        "B": 108
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col164",
+    "chinese_name": "青緑",
+    "english_name": "AOMIDORI",
+    "color": {
+      "hex": "#00AA90",
+      "rgb": {
+        "R": 0,
+        "G": 170,
+        "B": 144
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col165",
+    "chinese_name": "青磁",
+    "english_name": "SEIJI",
+    "color": {
+      "hex": "#69B0AC",
+      "rgb": {
+        "R": 105,
+        "G": 176,
+        "B": 172
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col166",
+    "chinese_name": "鉄",
+    "english_name": "TETSU",
+    "color": {
+      "hex": "#26453D",
+      "rgb": {
+        "R": 38,
+        "G": 69,
+        "B": 61
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col167",
+    "chinese_name": "水浅葱",
+    "english_name": "MIZUASAGI",
+    "color": {
+      "hex": "#66BAB7",
+      "rgb": {
+        "R": 102,
+        "G": 186,
+        "B": 183
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col168",
+    "chinese_name": "青碧",
+    "english_name": "SEIHEKI",
+    "color": {
+      "hex": "#268785",
+      "rgb": {
+        "R": 38,
+        "G": 135,
+        "B": 133
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 6986
+    }
+  },
+  {
+    "id": "col169",
+    "chinese_name": "錆鉄御納戸",
+    "english_name": "SABITETSUONANDO",
+    "color": {
+      "hex": "#405B55",
+      "rgb": {
+        "R": 64,
+        "G": 91,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col170",
+    "chinese_name": "高麗納戸",
+    "english_name": "KORAINANDO",
+    "color": {
+      "hex": "#305A56",
+      "rgb": {
+        "R": 48,
+        "G": 90,
+        "B": 86
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col171",
+    "chinese_name": "白群",
+    "english_name": "BYAKUGUN",
+    "color": {
+      "hex": "#78C2C4",
+      "rgb": {
+        "R": 120,
+        "G": 194,
+        "B": 196
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col172",
+    "chinese_name": "御召茶",
+    "english_name": "OMESHICHA",
+    "color": {
+      "hex": "#376B6D",
+      "rgb": {
+        "R": 55,
+        "G": 107,
+        "B": 109
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col173",
+    "chinese_name": "瓶覗",
+    "english_name": "KAMENOZOKI",
+    "color": {
+      "hex": "#A5DEE4",
+      "rgb": {
+        "R": 165,
+        "G": 222,
+        "B": 228
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col174",
+    "chinese_name": "深川鼠",
+    "english_name": "FUKAGAWANEZUMI",
+    "color": {
+      "hex": "#77969A",
+      "rgb": {
+        "R": 119,
+        "G": 150,
+        "B": 154
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col175",
+    "chinese_name": "錆浅葱",
+    "english_name": "SABIASAGI",
+    "color": {
+      "hex": "#6699A1",
+      "rgb": {
+        "R": 102,
+        "G": 153,
+        "B": 161
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 7288
+    }
+  },
+  {
+    "id": "col176",
+    "chinese_name": "水",
+    "english_name": "MIZU",
+    "color": {
+      "hex": "#81C7D4",
+      "rgb": {
+        "R": 129,
+        "G": 199,
+        "B": 212
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col177",
+    "chinese_name": "浅葱",
+    "english_name": "ASAGI",
+    "color": {
+      "hex": "#33A6B8",
+      "rgb": {
+        "R": 51,
+        "G": 166,
+        "B": 184
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col178",
+    "chinese_name": "御納戸",
+    "english_name": "ONANDO",
+    "color": {
+      "hex": "#0C4842",
+      "rgb": {
+        "R": 12,
+        "G": 72,
+        "B": 66
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col179",
+    "chinese_name": "藍",
+    "english_name": "AI",
+    "color": {
+      "hex": "#0D5661",
+      "rgb": {
+        "R": 13,
+        "G": 86,
+        "B": 97
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col180",
+    "chinese_name": "新橋",
+    "english_name": "SHINBASHI",
+    "color": {
+      "hex": "#0089A7",
+      "rgb": {
+        "R": 0,
+        "G": 137,
+        "B": 167
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col181",
+    "chinese_name": "錆御納戸",
+    "english_name": "SABIONANDO",
+    "color": {
+      "hex": "#336774",
+      "rgb": {
+        "R": 51,
+        "G": 103,
+        "B": 116
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col182",
+    "chinese_name": "鉄御納戸",
+    "english_name": "TETSUONANDO",
+    "color": {
+      "hex": "#255359",
+      "rgb": {
+        "R": 37,
+        "G": 83,
+        "B": 89
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 7590
+    }
+  },
+  {
+    "id": "col183",
+    "chinese_name": "花浅葱",
+    "english_name": "HANAASAGI",
+    "color": {
+      "hex": "#1E88A8",
+      "rgb": {
+        "R": 30,
+        "G": 136,
+        "B": 168
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col184",
+    "chinese_name": "藍鼠",
+    "english_name": "AINEZUMI",
+    "color": {
+      "hex": "#566C73",
+      "rgb": {
+        "R": 86,
+        "G": 108,
+        "B": 115
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col185",
+    "chinese_name": "舛花",
+    "english_name": "MASUHANA",
+    "color": {
+      "hex": "#577C8A",
+      "rgb": {
+        "R": 87,
+        "G": 124,
+        "B": 138
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col186",
+    "chinese_name": "空",
+    "english_name": "SORA",
+    "color": {
+      "hex": "#58B2DC",
+      "rgb": {
+        "R": 88,
+        "G": 178,
+        "B": 220
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col187",
+    "chinese_name": "熨斗目花",
+    "english_name": "NOSHIMEHANA",
+    "color": {
+      "hex": "#2B5F75",
+      "rgb": {
+        "R": 43,
+        "G": 95,
+        "B": 117
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col188",
+    "chinese_name": "千草",
+    "english_name": "CHIGUSA",
+    "color": {
+      "hex": "#3A8FB7",
+      "rgb": {
+        "R": 58,
+        "G": 143,
+        "B": 183
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col189",
+    "chinese_name": "御召御納戸",
+    "english_name": "OMESHIONANDO",
+    "color": {
+      "hex": "#2E5C6E",
+      "rgb": {
+        "R": 46,
+        "G": 92,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 7892
+    }
+  },
+  {
+    "id": "col190",
+    "chinese_name": "縹",
+    "english_name": "HANADA",
+    "color": {
+      "hex": "#006284",
+      "rgb": {
+        "R": 0,
+        "G": 98,
+        "B": 132
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col191",
+    "chinese_name": "勿忘草",
+    "english_name": "WASURENAGUSA",
+    "color": {
+      "hex": "#7DB9DE",
+      "rgb": {
+        "R": 125,
+        "G": 185,
+        "B": 222
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col192",
+    "chinese_name": "群青",
+    "english_name": "GUNJYO",
+    "color": {
+      "hex": "#51A8DD",
+      "rgb": {
+        "R": 81,
+        "G": 168,
+        "B": 221
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col193",
+    "chinese_name": "露草",
+    "english_name": "TSUYUKUSA",
+    "color": {
+      "hex": "#2EA9DF",
+      "rgb": {
+        "R": 46,
+        "G": 169,
+        "B": 223
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col194",
+    "chinese_name": "黒橡",
+    "english_name": "KUROTSURUBAMI",
+    "color": {
+      "hex": "#0B1013",
+      "rgb": {
+        "R": 11,
+        "G": 16,
+        "B": 19
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col195",
+    "chinese_name": "紺",
+    "english_name": "KON",
+    "color": {
+      "hex": "#0F2540",
+      "rgb": {
+        "R": 15,
+        "G": 37,
+        "B": 64
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col196",
+    "chinese_name": "褐",
+    "english_name": "KACHI",
+    "color": {
+      "hex": "#08192D",
+      "rgb": {
+        "R": 8,
+        "G": 25,
+        "B": 45
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 8194
+    }
+  },
+  {
+    "id": "col197",
+    "chinese_name": "瑠璃",
+    "english_name": "RURI",
+    "color": {
+      "hex": "#005CAF",
+      "rgb": {
+        "R": 0,
+        "G": 92,
+        "B": 175
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col198",
+    "chinese_name": "瑠璃紺",
+    "english_name": "RURIKON",
+    "color": {
+      "hex": "#0B346E",
+      "rgb": {
+        "R": 11,
+        "G": 52,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col199",
+    "chinese_name": "紅碧",
+    "english_name": "BENIMIDORI",
+    "color": {
+      "hex": "#7B90D2",
+      "rgb": {
+        "R": 123,
+        "G": 144,
+        "B": 210
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col200",
+    "chinese_name": "藤鼠",
+    "english_name": "FUJINEZUMI",
+    "color": {
+      "hex": "#6E75A4",
+      "rgb": {
+        "R": 110,
+        "G": 117,
+        "B": 164
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col201",
+    "chinese_name": "鉄紺",
+    "english_name": "TETSUKON",
+    "color": {
+      "hex": "#261E47",
+      "rgb": {
+        "R": 38,
+        "G": 30,
+        "B": 71
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col202",
+    "chinese_name": "紺青",
+    "english_name": "KONJYO",
+    "color": {
+      "hex": "#113285",
+      "rgb": {
+        "R": 17,
+        "G": 50,
+        "B": 133
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col203",
+    "chinese_name": "紅掛花",
+    "english_name": "BENIKAKEHANA",
+    "color": {
+      "hex": "#4E4F97",
+      "rgb": {
+        "R": 78,
+        "G": 79,
+        "B": 151
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 8496
+    }
+  },
+  {
+    "id": "col204",
+    "chinese_name": "紺桔梗",
+    "english_name": "KONKIKYO",
+    "color": {
+      "hex": "#211E55",
+      "rgb": {
+        "R": 33,
+        "G": 30,
+        "B": 85
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col205",
+    "chinese_name": "藤",
+    "english_name": "FUJI",
+    "color": {
+      "hex": "#8B81C3",
+      "rgb": {
+        "R": 139,
+        "G": 129,
+        "B": 195
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col206",
+    "chinese_name": "二藍",
+    "english_name": "FUTAAI",
+    "color": {
+      "hex": "#70649A",
+      "rgb": {
+        "R": 112,
+        "G": 100,
+        "B": 154
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col207",
+    "chinese_name": "楝",
+    "english_name": "OUCHI",
+    "color": {
+      "hex": "#9B90C2",
+      "rgb": {
+        "R": 155,
+        "G": 144,
+        "B": 194
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col208",
+    "chinese_name": "藤紫",
+    "english_name": "FUJIMURASAKI",
+    "color": {
+      "hex": "#8A6BBE",
+      "rgb": {
+        "R": 138,
+        "G": 107,
+        "B": 190
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col209",
+    "chinese_name": "桔梗",
+    "english_name": "KIKYO",
+    "color": {
+      "hex": "#6A4C9C",
+      "rgb": {
+        "R": 106,
+        "G": 76,
+        "B": 156
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col210",
+    "chinese_name": "紫苑",
+    "english_name": "SHION",
+    "color": {
+      "hex": "#8F77B5",
+      "rgb": {
+        "R": 143,
+        "G": 119,
+        "B": 181
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 8798
+    }
+  },
+  {
+    "id": "col211",
+    "chinese_name": "滅紫",
+    "english_name": "MESSHI",
+    "color": {
+      "hex": "#533D5B",
+      "rgb": {
+        "R": 83,
+        "G": 61,
+        "B": 91
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col212",
+    "chinese_name": "薄",
+    "english_name": "USU",
+    "color": {
+      "hex": "#B28FCE",
+      "rgb": {
+        "R": 178,
+        "G": 143,
+        "B": 206
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col213",
+    "chinese_name": "半",
+    "english_name": "HASHITA",
+    "color": {
+      "hex": "#986DB2",
+      "rgb": {
+        "R": 152,
+        "G": 109,
+        "B": 178
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col214",
+    "chinese_name": "江戸紫",
+    "english_name": "EDOMURASAKI",
+    "color": {
+      "hex": "#77428D",
+      "rgb": {
+        "R": 119,
+        "G": 66,
+        "B": 141
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col215",
+    "chinese_name": "紫紺",
+    "english_name": "SHIKON",
+    "color": {
+      "hex": "#3C2F41",
+      "rgb": {
+        "R": 60,
+        "G": 47,
+        "B": 65
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col216",
+    "chinese_name": "深紫",
+    "english_name": "KOKIMURASAKI",
+    "color": {
+      "hex": "#4A225D",
+      "rgb": {
+        "R": 74,
+        "G": 34,
+        "B": 93
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col217",
+    "chinese_name": "菫",
+    "english_name": "SUMIRE",
+    "color": {
+      "hex": "#66327C",
+      "rgb": {
+        "R": 102,
+        "G": 50,
+        "B": 124
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 9100
+    }
+  },
+  {
+    "id": "col218",
+    "chinese_name": "紫",
+    "english_name": "MURASAKI",
+    "color": {
+      "hex": "#592C63",
+      "rgb": {
+        "R": 89,
+        "G": 44,
+        "B": 99
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col219",
+    "chinese_name": "菖蒲",
+    "english_name": "AYAME",
+    "color": {
+      "hex": "#6F3381",
+      "rgb": {
+        "R": 111,
+        "G": 51,
+        "B": 129
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col220",
+    "chinese_name": "藤煤竹",
+    "english_name": "FUJISUSUTAKE",
+    "color": {
+      "hex": "#574C57",
+      "rgb": {
+        "R": 87,
+        "G": 76,
+        "B": 87
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col221",
+    "chinese_name": "紅藤",
+    "english_name": "BENIFUJI",
+    "color": {
+      "hex": "#B481BB",
+      "rgb": {
+        "R": 180,
+        "G": 129,
+        "B": 187
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col222",
+    "chinese_name": "黒紅",
+    "english_name": "KUROBENI",
+    "color": {
+      "hex": "#3F2B36",
+      "rgb": {
+        "R": 63,
+        "G": 43,
+        "B": 54
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col223",
+    "chinese_name": "茄子紺",
+    "english_name": "NASUKON",
+    "color": {
+      "hex": "#572A3F",
+      "rgb": {
+        "R": 87,
+        "G": 42,
+        "B": 63
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col224",
+    "chinese_name": "葡萄鼠",
+    "english_name": "BUDOHNEZUMI",
+    "color": {
+      "hex": "#5E3D50",
+      "rgb": {
+        "R": 94,
+        "G": 61,
+        "B": 80
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 9402
+    }
+  },
+  {
+    "id": "col225",
+    "chinese_name": "鳩羽鼠",
+    "english_name": "HATOBANEZUMI",
+    "color": {
+      "hex": "#72636E",
+      "rgb": {
+        "R": 114,
+        "G": 99,
+        "B": 110
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col226",
+    "chinese_name": "杜若",
+    "english_name": "KAKITSUBATA",
+    "color": {
+      "hex": "#622954",
+      "rgb": {
+        "R": 98,
+        "G": 41,
+        "B": 84
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col227",
+    "chinese_name": "蒲葡",
+    "english_name": "EBIZOME",
+    "color": {
+      "hex": "#6D2E5B",
+      "rgb": {
+        "R": 109,
+        "G": 46,
+        "B": 91
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col228",
+    "chinese_name": "牡丹",
+    "english_name": "BOTAN",
+    "color": {
+      "hex": "#C1328E",
+      "rgb": {
+        "R": 193,
+        "G": 50,
+        "B": 142
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col229",
+    "chinese_name": "梅紫",
+    "english_name": "UMEMURASAKI",
+    "color": {
+      "hex": "#A8497A",
+      "rgb": {
+        "R": 168,
+        "G": 73,
+        "B": 122
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col230",
+    "chinese_name": "似紫",
+    "english_name": "NISEMURASAKI",
+    "color": {
+      "hex": "#562E37",
+      "rgb": {
+        "R": 86,
+        "G": 46,
+        "B": 55
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col231",
+    "chinese_name": "躑躅",
+    "english_name": "TSUTSUJI",
+    "color": {
+      "hex": "#E03C8A",
+      "rgb": {
+        "R": 224,
+        "G": 60,
+        "B": 138
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 9704
+    }
+  },
+  {
+    "id": "col232",
+    "chinese_name": "紫鳶",
+    "english_name": "MURASAKITOBI",
+    "color": {
+      "hex": "#60373E",
+      "rgb": {
+        "R": 96,
+        "G": 55,
+        "B": 62
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col233",
+    "chinese_name": "白練",
+    "english_name": "SHIRONERI",
+    "color": {
+      "hex": "#FCFAF2",
+      "rgb": {
+        "R": 252,
+        "G": 250,
+        "B": 242
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col234",
+    "chinese_name": "胡粉",
+    "english_name": "GOFUN",
+    "color": {
+      "hex": "#FFFFFB",
+      "rgb": {
+        "R": 255,
+        "G": 255,
+        "B": 251
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col235",
+    "chinese_name": "白鼠",
+    "english_name": "SHIRONEZUMI",
+    "color": {
+      "hex": "#BDC0BA",
+      "rgb": {
+        "R": 189,
+        "G": 192,
+        "B": 186
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col236",
+    "chinese_name": "銀鼠",
+    "english_name": "GINNEZUMI",
+    "color": {
+      "hex": "#91989F",
+      "rgb": {
+        "R": 145,
+        "G": 152,
+        "B": 159
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col237",
+    "chinese_name": "鉛",
+    "english_name": "NAMARI",
+    "color": {
+      "hex": "#787878",
+      "rgb": {
+        "R": 120,
+        "G": 120,
+        "B": 120
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col238",
+    "chinese_name": "灰",
+    "english_name": "HAI",
+    "color": {
+      "hex": "#828282",
+      "rgb": {
+        "R": 130,
+        "G": 130,
+        "B": 130
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 10006
+    }
+  },
+  {
+    "id": "col239",
+    "chinese_name": "素鼠",
+    "english_name": "SUNEZUMI",
+    "color": {
+      "hex": "#787D7B",
+      "rgb": {
+        "R": 120,
+        "G": 125,
+        "B": 123
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col240",
+    "chinese_name": "利休鼠",
+    "english_name": "RIKYUNEZUMI",
+    "color": {
+      "hex": "#707C74",
+      "rgb": {
+        "R": 112,
+        "G": 124,
+        "B": 116
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col241",
+    "chinese_name": "鈍",
+    "english_name": "NIBI",
+    "color": {
+      "hex": "#656765",
+      "rgb": {
+        "R": 101,
+        "G": 103,
+        "B": 101
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col242",
+    "chinese_name": "青鈍",
+    "english_name": "AONIBI",
+    "color": {
+      "hex": "#535953",
+      "rgb": {
+        "R": 83,
+        "G": 89,
+        "B": 83
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col243",
+    "chinese_name": "溝鼠",
+    "english_name": "DOBUNEZUMI",
+    "color": {
+      "hex": "#4F4F48",
+      "rgb": {
+        "R": 79,
+        "G": 79,
+        "B": 72
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col244",
+    "chinese_name": "紅消鼠",
+    "english_name": "BENIKESHINEZUMI",
+    "color": {
+      "hex": "#52433D",
+      "rgb": {
+        "R": 82,
+        "G": 67,
+        "B": 61
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 340,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col245",
+    "chinese_name": "藍墨茶",
+    "english_name": "AISUMICHA",
+    "color": {
+      "hex": "#373C38",
+      "rgb": {
+        "R": 55,
+        "G": 60,
+        "B": 56
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 406,
+      "top": 10308
+    }
+  },
+  {
+    "id": "col246",
+    "chinese_name": "檳榔子染",
+    "english_name": "BINROJIZOME",
+    "color": {
+      "hex": "#3A3226",
+      "rgb": {
+        "R": 58,
+        "G": 50,
+        "B": 38
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 10,
+      "top": 10610
+    }
+  },
+  {
+    "id": "col247",
+    "chinese_name": "消炭",
+    "english_name": "KESHIZUMI",
+    "color": {
+      "hex": "#434343",
+      "rgb": {
+        "R": 67,
+        "G": 67,
+        "B": 67
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 76,
+      "top": 10610
+    }
+  },
+  {
+    "id": "col248",
+    "chinese_name": "墨",
+    "english_name": "SUMI",
+    "color": {
+      "hex": "#1C1C1C",
+      "rgb": {
+        "R": 28,
+        "G": 28,
+        "B": 28
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 142,
+      "top": 10610
+    }
+  },
+  {
+    "id": "col249",
+    "chinese_name": "黒",
+    "english_name": "KURO",
+    "color": {
+      "hex": "#080808",
+      "rgb": {
+        "R": 8,
+        "G": 8,
+        "B": 8
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 208,
+      "top": 10610
+    }
+  },
+  {
+    "id": "col250",
+    "chinese_name": "呂",
+    "english_name": "RO",
+    "color": {
+      "hex": "#0C0C0C",
+      "rgb": {
+        "R": 12,
+        "G": 12,
+        "B": 12
+      },
+      "cmyk": {}
+    },
+    "position": {
+      "left": 274,
+      "top": 10610
+    }
+  }
+]
